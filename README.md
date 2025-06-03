@@ -7,6 +7,12 @@ learning holds the potential to revolutionize antibiotic development. Despite re
 conda env create -f MOFormer.yaml
 ```
 
+# Steps
+1. Prepare datasets（data folder,PCA.py）
+2. Train MOFormer model (train.py)
+3. Generate candidates (inference.py)
+4. Compute pareto front(HV.py)
+5. Analysis results (analysis folder)
 
 
 
