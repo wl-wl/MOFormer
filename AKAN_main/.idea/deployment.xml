@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wangli@130.158.13.17:10158 agent (62)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="wangli@130.158.13.17:10158 agent (41)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_AK" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangli@130.158.13.17:10158 agent (42)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_763" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangli@130.158.13.17:10158 agent (51)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_763" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangli@130.158.13.17:10158 agent (61)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_763" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangli@130.158.13.17:10158 agent (62)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_763" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
